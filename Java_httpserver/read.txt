@@ -1,0 +1,4 @@
+in windows try 'o localhost 8080' in localhost 
+
+while in linux compile and eecute the java file and you will see the 
+string in the 'localhost:8080' in browser
